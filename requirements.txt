@@ -1,3 +1,4 @@
 gTTS==2.2.4
 deep_translator
 Python 3.9
+
